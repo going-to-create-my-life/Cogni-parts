@@ -3,6 +3,7 @@
     margin: 5.56vw;
     padding: 0;
     background-color: black;
+    overflow-x: hidden;
   }
   
   .top {
@@ -305,6 +306,7 @@
       margin-top: 3vw;
       padding: 0;
       background-color: black;
+      overflow-x: hidden;
     }
     
     .top {
