@@ -308,6 +308,9 @@
       background-color: black;
       overflow-x: hidden;
     }
+  img{
+      height: 2.1vw;
+    }
     
     .top {
       display: none;
